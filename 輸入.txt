@@ -1,0 +1,10 @@
+若classes名稱有空格:
+
+1. 修改remove_space.py & rename_class.py 檔案裡的指定儲存路徑
+
+os.chdir("C:/Users/hj123/Desktop/mAP-master/input/ground-truth")
+os.chdir("C:/Users/hj123/Desktop/mAP-master/input/detection-results")
+
+2. python rename_class.py --current-class-name building materials --new-class-name materials
+
+3. python remove_space.py --delimiter "-" --yes
