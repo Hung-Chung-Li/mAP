@@ -1,4 +1,4 @@
-# mAP
+# mAP (mean Average Precision) for Object Detection
 ## Results ##
 ![image](https://github.com/Hung-Chung-Li/mAP/blob/master/results/classes/materials.png)
 ![image](https://github.com/Hung-Chung-Li/mAP/blob/master/results/mAP.png)
